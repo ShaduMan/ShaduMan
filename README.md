@@ -27,23 +27,38 @@ I love learning new technologies and collaborating on **projects that challenge 
 
 ## 🛠 Projects
 
+### 📚 Symbiosis
+This project explores the **Prisoner's Dilemma** through a robust simulation engine featuring various strategic archetypes that compete in various environments. 
+[Repository Link](https://github.com/ShaduMan/symbiosis)
+
+### 📚 ClubSync
+A simple and easy to navigate **management system** initially designed for Bangladesh's local tournaments. 
+[Repository Link](https://github.com/ShaduMan/ClubSync)
+
+### 📚 Nirapotta-App
+A comprehensive community-driven **safety reporting and emergency response** system for small scale cities with evolving database. 
+[Repository Link](https://github.com/ShaduMan/Nirapotta-App)
+
+### 📚 StudyBuddy
+A system that enables personal and community academic resource sharing and chat service.  
+[Repository Link](https://github.com/WasiUlHabib/StudyBuddy)
+
+### 📚 IUT-Chronicles
+A **2D RPG game** based on the principals of OOP - a storytelling mystery setup within the maps of IUT 
+[Repository Link](https://github.com/ShaduMan/IUT-Chronicles)
+
 ### 🕹 MazeGame (C++)
 Classic maze game demonstrating **OOP, algorithms, and problem-solving**.  
 [Repository Link](https://github.com/ShaduMan/MazeGame)
 
+### 💻 GameCube (C)
+My **First Ever** Low-level C project demonstrating **foundational CS concepts**. A classic LUDO Game with modern twists
+[Repository Link](https://github.com/ShaduMan/GameCube)
 
 ### 📦 Black-end-Blue-repo (JavaScript)
 My First ever experimental frontend logic and scripting project.  
 [Repository Link](https://github.com/ShaduMan/Black-end-Blue-repo)
 
-### 💻 GameCube (C)
-Low-level C project demonstrating **foundational CS concepts**. A classic LUDO Game with modern twists
-[Repository Link](https://github.com/ShaduMan/GameCube)
-
-
-### 📚 IUT-third-semester
-Coursework projects including **data structures, algorithms, and lab implementations**.  
-[Repository Link](https://github.com/ShaduMan/IUT-third-semester)
 
 ---
 
@@ -51,7 +66,7 @@ Coursework projects including **data structures, algorithms, and lab implementat
 - Game Development & Algorithms  
 - Web & App Development  
 - Photography & Videography  
-- Music: Guitar, Keyboard, Ukulele  
+- Music: Guitar, Keyboards, Ukulele  
 - Debating and Leadership Activities  
 
 ---
@@ -63,4 +78,4 @@ Coursework projects including **data structures, algorithms, and lab implementat
 
 ---
 
-*“Always learning, always building, always moving forward.”* 🚀
+*“what you do defines what you are”*
